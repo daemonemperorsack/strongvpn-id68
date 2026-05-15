@@ -1,4 +1,4 @@
-
+custom StrongVPN Connector | IKEv2-support + malware-blocker is the best StrongVPN connector, featuring IKEv2-support and malware-blocker. Secure, fast, and optimized for privacy.
 
 
 
